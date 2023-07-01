@@ -8,6 +8,6 @@ Below artifacts used:
 3- Test Framework Support: TestNG
 4- Selenium Version 4.10 (No need to set drivers path)
 5- Browser: Chrome supported for now
-6- Language: Java
+6- Language: Java Version 20
 7- Data: Stored in Config.properties file
 8- IDE Used: Intellij
